@@ -21,8 +21,8 @@ setup(
         , 'diffusers'
         , 'lark'
         , 'protobuf'
-        , 'ipykernel'
-        , 'ipywidgets'
+        # , 'ipykernel'
+        # , 'ipywidgets'
     ]
     , include_package_data=True
 )
